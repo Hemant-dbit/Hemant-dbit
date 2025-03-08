@@ -82,8 +82,8 @@ A location-tracking app built using **Flutter & Supabase** for real-time geo-loc
 ### 2️⃣ [Memories Album](https://github.com/Hemant-dbit/Memories-Album) 📸  
 A **React.js & Supabase** project for organizing and storing personal memories efficiently.
 
-### 3️⃣ [Museobot](https://github.com/Hemant-dbit/Museobot) 🏛️  
-A chatbot-based **museum ticketing system** that enhances visitor experience and streamlines bookings.
+### 3️⃣ [Placement Management System (Desktop App)](https://github.com/Hemant-dbit/Placement-Management-System) 🎓  
+A **JavaFX & MySQL** desktop application to streamline and manage college placement activities efficiently.
 
 📌 Check out more of my projects on [GitHub](https://github.com/Hemant-dbit)! 🚀  
 
