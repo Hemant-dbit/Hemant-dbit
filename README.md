@@ -37,9 +37,8 @@
 ## 🔗 Connect with Me  
 
 📧 Email: [guptahemant350@gmail.com](mailto:guptahemant350@gmail.com)  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🌎 Portfolio: [Your Portfolio](https://yourportfolio.com)  
-🐦 Twitter: [Your Twitter](https://twitter.com/your-twitter)  
+💼 LinkedIn:https://www.linkedin.com/in/hemant-gupta-contact 
+ 
 
 ---
 
