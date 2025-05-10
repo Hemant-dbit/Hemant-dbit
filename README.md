@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Gupta</h1>
-<h3 align="center">Full-Stack Developer | Assistant Tech Head at CSI DBIT | Tech Enthusiast 🚀</h3>
+<h3 align="center">Assistant Tech Head at CSI DBIT | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hemant-dbit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
