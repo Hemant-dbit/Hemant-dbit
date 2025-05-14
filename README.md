@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Gupta</h1>
 <h3 align="center">Assistant Tech Head at CSI DBIT | Tech Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemant-dbit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
@@ -31,6 +29,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant-dbit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
+
 
 ---
 
