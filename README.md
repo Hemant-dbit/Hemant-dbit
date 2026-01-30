@@ -7,15 +7,7 @@ Assistant Tech Head at CSI DBIT | Full-Stack & Mobile App Developer 🚀
 
 ## 🚀 About Me
 
-👨‍💻 I am a passionate **Full-Stack Developer** with experience in  
-**MERN, Flutter, Supabase, Django**, and currently learning **React Native**.
-
-I enjoy building real-world products, working on startup-style projects, and improving backend systems.
-
-- 🔭 Currently working on **Movix** – a React Native movie discovery app  
-- 🌱 Learning **React Native** and improving mobile UI/UX & performance  
-- 💡 Interested in real-world product development and backend systems  
-- ⚡ Fun fact: I enjoy learning about **energy & sustainability technologies**
+👨‍💻 I am a passionate **Full-Stack Developer** with experience in  MERN and currently learning **React Native**.
 
 ---
 
